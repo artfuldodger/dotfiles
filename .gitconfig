@@ -1,0 +1,12 @@
+[push]
+  default = current
+[alias]
+  co = checkout
+  st = status
+[user]
+	name = Jon Evans
+	email = jle@foraker.com
+[color]
+	ui = true
+[core]
+	excludesfile = /Users/jle/.gitignore_global
